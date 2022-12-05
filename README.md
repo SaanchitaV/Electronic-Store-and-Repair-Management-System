@@ -1,6 +1,6 @@
 # Electronic-Store-and-Repair-Management-System
 
-This Project uses Python and MySQL databses.
+This Project uses Python and MySQL
 
 
 
