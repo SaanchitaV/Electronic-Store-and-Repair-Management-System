@@ -1,0 +1,4 @@
+user_id,item_id,item_type,purchase_id,date_of_purchase,date_of_service,item_repair_code,item_warranty,item_warranty_status
+4,4,Phone,4,2020-05-04,2021-10-20,654,1,invalid
+5,7,Phone,5,2022-06-02,2022-08-02,688,1,valid
+2,2,Laptop,2,2022-10-14,2022-11-26,899,2,valid
