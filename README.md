@@ -4,7 +4,7 @@ This Project uses Python and MySQL
 
 
 
-# Pre Requisites to run this Project on your machine:
+Pre Requisites to run this Project on your machine:
   ~ MySQL Workbench or Xampp 
   ~ Python 
   ~ Streamlit (python library) to satisfy frontend requirements
