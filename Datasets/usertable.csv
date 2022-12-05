@@ -1,14 +1,24 @@
-9,Female,20,Pramithi,9017756322,pram@gmail.com,24-Jayanagar,Good
-10,Female,20,Druthi,9034456711,drut@gmail.com,35-Jayanagar,Good
-11,Male,26,Samarth,8743321655,samarth@gmail.com,20-Jayanagar,Okay
-12,Female,22,Anagha,7320098711,anagha@gmail.com,31-Jayanagar,Good
-13,Female,20,Spoorthi,9909923499,spoo@gmail.com,19-Girinagar,Bad
-14,Female,20,Sanmathi,9019978652,san@gmail.com,25-Girinagar,Okay
-15,Female,21,Supriya,9238856122,sup@gmail.com,120-RR Nagar,Okay
-16,Male,28,Sudith,9900345611,sudith@gmail.com,23-Jayanagar,Okay
-17,Male,29,Chinmay,8781234904,chin@gmail.com,18-Jayanagar,Good
-18,Male,24,Yashas,7022456113,yashas@gmail.com,56-Vijaynagar,Good
-19,Female,25,Keerthi,8214790235,kee@gmail.com,5-Banashankari,Bad
-20,Female,20,Kruthika,9920104566,kruthika@gmail.com,44-Whitefield,Good
-21,Female,19,Vedika,9927786433,dved@gmail.com,44-Whitefield,Good
-22,Female,23,Prajna,8827885462,prajna@gmail.com,24-Jayanagar,Good
+user_id, user_gender, user_age, user_name, user_phone, user_mail, user_address, user_feedback
+1, Female, 20, Samanvitha, 9012245677, sam@gmail.com, 100,4th cross,Banashankari, Good
+2, Female, 20, Saanchita, 9019978254, saanchita@gmail.com, 100,2nd phase,JP Nagar, Good
+3, Male, 19, Sumukh, 6542289711, sumukh@gmail.com, 20,Jayanagar, Good
+4, Male, 30, Anirudh, 765543221, anirudh@gmail.com, Kengeri,Bengaluru, Okay
+5, Male, 26, Sumedh, 4533216778, sumedh@gmail.com, Jayanagr,Bengaluru, Bad
+6, Female, 25, Megha, 9023345632, megha@gmail.com, Girinagar,Bengaluru, Good
+7, Female, 19, Adithi, 7862234977, adithi@gmail.com, 12,Jayanagar,Bengaluru, Okay
+8, Female, 19, Samhitha, 8762213988, samhitha@gmail.com, 29,BTM Layout,Bengaluru, Good
+9, Female, 20, Pramithi, 9017756322, pram@gmail.com, 24-Jayanagar, Good
+10, Female, 20, Druthi, 9034456711, drut@gmail.com, 35-Jayanagar, Good
+11, Male, 26, Samarth, 8743321655, samarth@gmail.com, 20-Jayanagar, Okay
+12, Female, 22, Anagha, 7320098711, anagha@gmail.com, 31-Jayanagar, Good
+13, Female, 20, Spoorthi, 9909923499, spoo@gmail.com, 19-Girinagar, Bad
+14, Female, 20, Sanmathi, 9019978652, san@gmail.com, 25-Girinagar, Okay
+15, Female, 21, Supriya, 9238856122, sup@gmail.com, 120-RR Nagar, Okay
+16, Male, 28, Sudith, 9900345611, sudith@gmail.com, 23-Jayanagar, Okay
+17, Male, 29, Chinmay, 8781234904, chin@gmail.com, 18-Jayanagar, Good
+18, Male, 24, Yashas, 7022456113, yashas@gmail.com, 56-Vijaynagar, Good
+19, Female, 25, Keerthi, 8214790235, kee@gmail.com, 5-Banashankari, Bad
+20, Female, 20, Kruthika, 9920104566, kruthika@gmail.com, 44-Whitefield, Good
+21, Female, 19, Vedika, 9927786433, dved@gmail.com, 44-Whitefield, Good
+22, Female, 23, Prajna, 8827885462, prajna@gmail.com, 24-Jayanagar, Good
+23, Female, 20, Ananya, 9023365421, ananya@gmail.com, 121,Banashankari, Bad
